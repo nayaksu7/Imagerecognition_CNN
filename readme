@@ -1,0 +1,2 @@
+Build a deep neural network frame work to classify hand writtendigits(images).
+Build a baselin neural network and add hidden layers and compare accuracy for different models. Used different activation functions like "relu" and sigmoid (compared accuracy metrics). Relu activation performed much better when used in the hidden layers. Used keras which a deepleanring framework API on top of tensor. Stohastic gradient descent was used as optimizer and used categorical cross entropy as loss function/objective function to change weight by the optimizer for each ep:och.
